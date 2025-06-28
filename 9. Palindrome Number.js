@@ -1,3 +1,4 @@
+
 var isPalindrome = function (x) {
     if(x < 0) return false
     const original = x
@@ -12,3 +13,4 @@ var isPalindrome = function (x) {
 
 const num = 121
 console.log(isPalindrome(num))
+
